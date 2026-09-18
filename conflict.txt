@@ -1,1 +1,2 @@
 This text came from the main branch.
+This text came from the conflict branch.
